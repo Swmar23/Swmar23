@@ -4,8 +4,13 @@ Jestem studentem trzeciego roku Informatyki Algorytmicznej na Politechnice Wroc�
 
 | Semestr | Przedmiot | Prowadzący | Ocena końcowa | Język programowania, narzędzia| Link do repozytorium |
 | --- | --- | --- | --- | --- | --- |
+| 6 | Algorytmy Optymalizacji Dyskretnej | dr inż. Karol Gotfryd | ??? | ??? | zostanie opublikowane po zakończeniu kursu
+| 6 | Aplikacje Mobilne | dr inż. Marcin Zawada | ??? | Kotlin (Android Studio), ??? | zostanie opublikowane po zakończeniu kursu
+| 6 | Nowoczesne technologie WWW | dr inż. Anna Lauks-Dutka | ??? | HTML5, CSS, ??? | zostanie opublikowane po zakończeniu kursu
+| 6 | Wprowadzenie do Sztucznej Inteligencji | dr Maciej Gębala | ??? | ??? | zostanie opublikowane po zakończeniu kursu
 | 5 | Języki Formalne i Techniki Translacji | dr Maciej Gębala | 4.0 | Python3, SLY | [JFTT_Kompilator](https://github.com/Swmar23/JFTT_Kompilator) (30 miejsce na 66 zgłoszonych kompilatorów)|
 | 5 | Obliczenia Naukowe | prof. dr hab. Paweł Zieliński | 5.5 | Julia | [obliczenia-naukowe](https://github.com/Swmar23/obliczenia-naukowe) (metody numeryczne) |
+| 5 | Programowanie Funkcyjne | prof. dr. hab. Jacek Cichoń | 4.0 | Haskell (GHC, GHCi) | (TODO)
 | 5 | Programowanie Zespołowe | dr inż. Przemysław Błaśkiewicz | 4.5 | Java | [progzesp22/frontend](https://github.com/progzesp22/frontend) (zespół Frontend) |
 | 5 | Środowisko Programisty | dr Marcin Kik | 5.5 | Shell, SVN, Git | [srodowisko-programisty](https://github.com/Swmar23/srodowisko-programisty) |
 | 4 | Algorytmy i Struktury Danych | dr inż. Zbigniew Gołębiewski | 4.5 | C/C++ | [AiSD](https://github.com/Swmar23/AiSD) |
