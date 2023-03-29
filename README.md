@@ -4,7 +4,7 @@ Jestem studentem trzeciego roku Informatyki Algorytmicznej na Politechnice Wroc�
 
 | Semestr | Przedmiot | Prowadzący | Ocena końcowa | Język programowania, narzędzia| Link do repozytorium |
 | --- | --- | --- | --- | --- | --- |
-| 6 | Algorytmy Optymalizacji Dyskretnej | dr inż. Karol Gotfryd | ??? | ??? | zostanie opublikowane po zakończeniu kursu
+| 6 | Algorytmy Optymalizacji Dyskretnej | dr inż. Karol Gotfryd | ??? | Julia (JuMP) | [AOD](https://github.com/Swmar23/AOD)
 | 6 | Aplikacje Mobilne | dr inż. Marcin Zawada | ??? | Kotlin (Android Studio), ??? | zostanie opublikowane po zakończeniu kursu
 | 6 | Nowoczesne technologie WWW | dr inż. Anna Lauks-Dutka | ??? | HTML5, CSS, JavaScript, SASS | [www](https://github.com/Swmar23/www)
 | 6 | Wprowadzenie do Sztucznej Inteligencji | dr Maciej Gębala | ??? | ??? | zostanie opublikowane po zakończeniu kursu
