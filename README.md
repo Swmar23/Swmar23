@@ -19,7 +19,7 @@ Jestem studentem trzeciego roku Informatyki Algorytmicznej na Politechnice Wroc�
 | 4 | Programowanie w Logice | dr Przemysław Kobylański | 5.0 | Prolog - SWIPL | [programowanie-w-logice](https://github.com/Swmar23/programowanie-w-logice) (TODO)|
 | 4 | Technologie Sieciowe | dr hab. inż. Łukasz Krzywiecki | 5.0 | GNS3, Java, podstawowe narzędzia sieciowe w Ubuntu | [technologie-sieciowe](https://github.com/Swmar23/technologie-sieciowe) (TODO) |
 | 3 | Technologie Programowania | dr inż. Wojciech Macyna | 5.0 | Java | [Krrer-uni/ChineseCheckers](https://github.com/Krrer-uni/ChineseCheckers) |
-| 3 | Bazy Danych i Systemy Informacji | dr inż. Anna Lauks-Dutka | 5.5 | SQL (MySQL) | (TODO) |
+| 3 | Bazy Danych i Systemy Informacji | dr inż. Anna Lauks-Dutka | 5.5 | SQL (MySQL) | [sql](https://github.com/Swmar23/sql) |
 | 3 | Architektura Komputerów i Systemy Operacyjne | dr inż. Marcin Zawada | 5.0 | Bash, NASM (assembly), C | (TODO) |
 | 2 | Kurs Programowania | dr inż. Wojciech Macyna | 5.0 | Java, C++ | (TODO) |
 | 1 | Wstęp do Informatyki i Programowania | dr Przemysław Kobylański | 5.0 | C | (TODO) |
