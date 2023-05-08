@@ -7,7 +7,7 @@ Jestem studentem trzeciego roku Informatyki Algorytmicznej na Politechnice Wroc�
 | 6 | Algorytmy Optymalizacji Dyskretnej | dr inż. Karol Gotfryd | ??? | Julia (JuMP) | [AOD](https://github.com/Swmar23/AOD)
 | 6 | Aplikacje Mobilne | dr inż. Marcin Zawada | ??? | Kotlin (Android Studio), ??? | zostanie opublikowane po zakończeniu kursu
 | 6 | Nowoczesne technologie WWW | dr inż. Anna Lauks-Dutka | ??? | HTML5, CSS, JavaScript, SASS | [www](https://github.com/Swmar23/www)
-| 6 | Wprowadzenie do Sztucznej Inteligencji | dr Maciej Gębala | ??? | ??? | zostanie opublikowane po zakończeniu kursu
+| 6 | Wprowadzenie do Sztucznej Inteligencji | dr Maciej Gębala | ??? | C/C++, TensorFlow | [WSI-AI](https://github.com/Swmar23/WSI-AI)
 | 5 | Języki Formalne i Techniki Translacji | dr Maciej Gębala | 4.0 | Python3, SLY | [JFTT_Kompilator](https://github.com/Swmar23/JFTT_Kompilator) (30 miejsce na 66 zgłoszonych kompilatorów)|
 | 5 | Obliczenia Naukowe | prof. dr hab. Paweł Zieliński | 5.5 | Julia | [obliczenia-naukowe](https://github.com/Swmar23/obliczenia-naukowe) (metody numeryczne) |
 | 5 | Programowanie Funkcyjne | prof. dr. hab. Jacek Cichoń | 4.0 | Haskell (GHC, GHCi) | (TODO)
