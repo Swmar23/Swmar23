@@ -1,9 +1,15 @@
-Jestem studentem trzeciego roku Informatyki Algorytmicznej na Politechnice Wrocławskiej.
+Jestem inżynierem informatyki algorytmicznej, Politechnika Wrocławska. Tytuł pracy: Algorytmy metaheurystyczne dla problemu marszrutyzacji, promotor: prof. dr hab. Paweł Zieliński. Planuję studia II stopnia również na informatyce algorytmicznej.
 
 ### Repozytoria z moim wkładem w ramach studiów
 
+#### II stopień
+
+#### I stopień
+
 | Semestr | Przedmiot | Prowadzący | Ocena końcowa | Język programowania, narzędzia| Link do repozytorium |
 | --- | --- | --- | --- | --- | --- |
+| 7 | Praca dyplomowa | prof. dr hab. Paweł Zieliński | 5.5 | Julia | (TODO) |
+| 7 | Środowisko Programisty | dr Marcin Kik | 4.0 | Go | (TODO) |
 | 6 | Algorytmy Optymalizacji Dyskretnej | dr inż. Karol Gotfryd | 5.5 | Julia (JuMP) | [AOD](https://github.com/Swmar23/AOD)
 | 6 | Aplikacje Mobilne | dr inż. Marcin Zawada | 5.5 | Kotlin, Android Studio| [projekt](https://github.com/BartoszWisny/SpiralApp)
 | 6 | Nowoczesne technologie WWW | dr inż. Anna Lauks-Dutka | 5.5 | HTML5, CSS, JavaScript, SASS, Node.js, MongoDB, Bootstrap 5, PHP | [www](https://github.com/Swmar23/www)
